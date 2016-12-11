@@ -1,0 +1,26 @@
+
+::-webkit-scrollbar {
+    width: 5px;
+    color: red;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 106px #535271; 
+}
+#main
+{
+	position: absolute;
+	left: 0;
+	top: 10%;
+	width: 100%;
+	color: #535271;
+	/*background-color: red;*/
+}
+#problems
+{
+	position: absolute;
+	left: 3%;
+	top: 0;
+	width: 60%;
+	/*background-color: red;*/
+}

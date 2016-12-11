@@ -1,0 +1,27 @@
+#Compile
+{
+	position: absolute;
+	left: 25%;
+	top: 20%;
+
+}
+#textArea
+
+{
+	/*position: absolute;*/
+	width: 700px;
+	height: 450px;
+	box-shadow: 0 0 2px red;
+	font-family: sans-serif;
+	font-size: 140%;
+}
+
+#error
+{
+	position: absolute;
+	left: 30%;
+	top: 30%;
+	color: #535271;
+	font-size: xx-large;
+
+}
